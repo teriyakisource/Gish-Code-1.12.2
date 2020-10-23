@@ -25,7 +25,7 @@ import net.minecraft.client.gui.ScaledResolution;
 
 public class ClickGuiScreen extends GuiScreen {
 
-	public static final String AUTHOR_TEXT = "Coded by Gish_Reloaded";
+	public static final String AUTHOR_TEXT = "HACHE by teriyakisace";
     public static ClickGui clickGui;
     public static int[] mouse = new int[2];
     public static Tooltip tooltip = null;

@@ -23,9 +23,9 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 @Mod(modid = Main.MODID, name = Main.NAME, version = Main.VERSION, acceptableRemoteVersions = "*")
 public class Main {
 	
-	public static final String MODID = "gishcode";
-	public static final String NAME = "GishCode";
-	public static final String VERSION = "0.4.9";
+	public static final String MODID = "hache";
+	public static final String NAME = "HACHE";
+	public static final String VERSION = "1.0.0";
 	public static final String MCVERSION = "1.12.2";
 	public static int initCount = 0;
 	public static HackManager hackManager;
